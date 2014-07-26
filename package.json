@@ -1,0 +1,25 @@
+{
+  "name": "dollar-hash",
+  "version": "0.0.0",
+  "description": "Create hashes which indicate the algorithm like alg$hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/node-dollar-hash.git"
+  },
+  "keywords": [
+    "hash",
+    "sha",
+    "open",
+    "badges"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/node-dollar-hash/issues"
+  },
+  "homepage": "https://github.com/finnp/node-dollar-hash"
+}
