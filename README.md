@@ -1,4 +1,6 @@
 # dollar-hash
+[![Build Status](https://travis-ci.org/finnp/node-dollar-hash.svg?branch=master)](https://travis-ci.org/finnp/node-dollar-hash)
+
 A module for creating hashes, which indicate the algorithm being used like
 `"alg$hash"`. Install it with `npm install dollar-hash`.
 
