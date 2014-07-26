@@ -4,7 +4,7 @@
   "description": "Create hashes which indicate the algorithm like alg$hash",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/finnp/node-dollar-hash/issues"
   },
-  "homepage": "https://github.com/finnp/node-dollar-hash"
+  "homepage": "https://github.com/finnp/node-dollar-hash",
+  "devDependencies": {
+    "tape": "^2.13.4"
+  }
 }
