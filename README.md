@@ -7,7 +7,8 @@ A module for creating hashes, which indicate the algorithm being used like
 `"alg$hash"`. Install it with `npm install dollar-hash`.
 
 It was inspired and can be used for the [specification](https://github.com/mozilla/openbadges-specification/blob/master/Assertion/latest.md#primitives) of 
-the Open Badges verification.
+the Open Badges verification. Actually it is adapted from a piece of code written
+by @brianloveswords [in this wiki](https://github.com/mozilla/openbadges/wiki/How-to-hash-&-salt-in-various-languages./189b321a5659ab9475777530a68661cc51695a5f#nodejs)
 
 ```js
 var hash = require('dollar-hash')
